@@ -1,0 +1,24 @@
+a {
+    background-color: #9376E0;
+    color: #ECF2FF;
+    text-decoration: none;
+    padding: 10px 35px;
+    font-family: monospace;
+    font-size: 18px;
+    display: inline-block;
+    margin-top: 17px;
+    border: none;
+    border-radius: 47px;
+}
+
+p {
+    display: inline-block;
+    background-color: #FF6969;
+    color: #FEFAE0;
+    padding: 10px 274px;
+    border: none;
+    border-radius: 30px;
+    font-family: monospace;
+    font-size: 23px;
+    margin-top: 47px;
+}
